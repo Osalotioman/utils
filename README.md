@@ -1,2 +1,2 @@
 # utils
-Some software utility programs.
+Some command line interface based software utility programs.
