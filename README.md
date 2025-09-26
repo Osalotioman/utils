@@ -1,2 +1,2 @@
-# random
-Totally random code, mostly little code I find interesting and feel is worth sharing.
+# utils
+Some software utility programs.
